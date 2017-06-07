@@ -8,6 +8,7 @@ Tracking my continuous improvement efforts
 
 ## GT
 - [x] [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [ ] [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 - [ ] [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 ## edX
