@@ -20,3 +20,4 @@ Tracking my continuous improvement efforts
 
 ## Misc
 - [ ] [Practical Deep Learning for Coders: Part 1](http://course.fast.ai/)
+- [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
