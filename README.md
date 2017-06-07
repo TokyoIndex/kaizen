@@ -7,7 +7,7 @@ Tracking my continuous improvement efforts
 - [ ] [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 
 ## GT
-- [ ] [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [x] [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [ ] [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 ## edX
